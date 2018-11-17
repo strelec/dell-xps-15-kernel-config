@@ -18,6 +18,14 @@ When building a .config file, you always have to make some tradeoffs. Because th
  * touchpad with SMbus support,
  * touchscreen,
  * EFI boot.
+ 
+## What is not included
+ 
+Some features are left out, notably:
+ 
+ * Swap support,
+ * Bluetooth support,
+ * module support (required by proprietary Nvidia drivers).
 
 ## Current known problems
 
